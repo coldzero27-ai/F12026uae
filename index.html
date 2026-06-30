@@ -173,8 +173,8 @@
   <div id="hotzone"></div>
   <div id="controls">
     <div class="grp">
-      <button data-surf="dots" class="active">Dot grid</button>
-      <button data-surf="fill">Continent fill</button>
+      <button data-surf="dots">Dot grid</button>
+      <button data-surf="fill" class="active">Continent fill</button>
     </div>
     <div class="sep"></div>
     <div class="grp">
@@ -344,7 +344,7 @@ function buildTexture(mode,oceanHex){
   const t=new THREE.CanvasTexture(c);t.anisotropy=4;return t;
 }
 
-let surface="dots",ocean="navy";
+let surface="fill",ocean="navy";
 const sphereMat=new THREE.MeshPhongMaterial({map:buildTexture(surface,OCEANS[ocean]),emissive:0x05080e,emissiveIntensity:0.5,shininess:5});
 globeGroup.add(new THREE.Mesh(new THREE.SphereGeometry(R,64,64),sphereMat));
 
