@@ -80,7 +80,7 @@
   *{scrollbar-width:none;-ms-overflow-style:none;}
 
   /* countdown strip under globe */
-  #countdown{position:absolute;left:50%;bottom:40px;transform:translateX(-50%);
+  #countdown{position:absolute;left:50%;bottom:96px;transform:translateX(-50%);
     display:flex;align-items:center;gap:18px;background:var(--glass-2);
     border:1px solid var(--glass-border);border-radius:40px;padding:12px 28px;backdrop-filter:blur(14px);}
   body.light #countdown{background:rgba(255,255,255,.75);border-color:rgba(20,40,70,.12);}
@@ -89,6 +89,30 @@
   #countdown .fl{font-size:20px;}
   #countdown .clock{font-size:18px;font-weight:800;color:var(--ember-soft);font-variant-numeric:tabular-nums;}
   body.light #countdown .clock{color:#d11;}
+  /* ===== news ticker (bottom strip) ===== */
+  #newsbar{position:absolute;left:0;right:0;bottom:0;height:56px;display:flex;align-items:center;
+    background:rgba(10,13,20,.72);border-top:1px solid var(--glass-border);
+    backdrop-filter:blur(14px);overflow:hidden;z-index:6;}
+  body.light #newsbar{background:rgba(255,255,255,.78);border-top-color:rgba(20,40,70,.12);}
+  #newsbar .tag{flex:0 0 auto;display:flex;align-items:center;gap:8px;height:100%;padding:0 18px;
+    background:rgba(255,45,45,.16);border-right:1px solid rgba(255,45,45,.4);}
+  body.light #newsbar .tag{background:rgba(255,45,45,.1);}
+  #newsbar .tag .dot{width:8px;height:8px;border-radius:50%;background:var(--ember);
+    box-shadow:0 0 9px var(--ember);animation:nbpulse 2s infinite;}
+  @keyframes nbpulse{0%,100%{opacity:1}50%{opacity:.35}}
+  #newsbar .tag .lbl{font-size:12px;font-weight:800;letter-spacing:1.6px;color:var(--ember-soft);}
+  body.light #newsbar .tag .lbl{color:#c11;}
+  #newsbar .track{flex:1;overflow:hidden;position:relative;min-width:0;}
+  #newsbar .lane{display:inline-flex;align-items:center;white-space:nowrap;will-change:transform;}
+  #newsbar .item{display:inline-flex;align-items:center;gap:10px;padding:0 30px;}
+  #newsbar .item .hl{font-size:16px;font-weight:600;color:var(--ink);}
+  #newsbar .item .src{font-size:11px;font-weight:700;letter-spacing:.7px;color:var(--ink-faint);text-transform:uppercase;}
+  #newsbar .sep{color:var(--steel);font-size:9px;}
+  #newsbar .stamp{flex:0 0 auto;padding:0 18px;font-size:10px;letter-spacing:1px;text-transform:uppercase;
+    color:var(--ink-faint);border-left:1px solid var(--glass-border);height:100%;display:flex;align-items:center;}
+  #newsbar .stamp.offline{color:var(--ember-soft);}
+  @media print{ #newsbar{display:none;} }
+
   #countdown .newslink{margin-left:14px;padding-left:16px;border-left:1px solid var(--glass-border);
     font-size:13px;font-weight:700;color:var(--steel-soft);text-decoration:none;letter-spacing:.3px;}
   #countdown .newslink:hover{color:var(--steel);text-decoration:underline;}
@@ -253,6 +277,12 @@
     <span class="lbl">in</span>
     <span class="clock" id="cdClock">—</span>
     <a href="https://www.formula1.com/en/latest" target="_blank" rel="noopener" class="newslink">F1 News →</a>
+  </div>
+
+  <div id="newsbar">
+    <div class="tag"><span class="dot"></span><span class="lbl">F1 NEWS</span></div>
+    <div class="track"><div class="lane" id="newsLane"></div></div>
+    <div class="stamp" id="newsStamp">loading…</div>
   </div>
 
   <svg id="lineLayer"></svg>
@@ -1172,6 +1202,58 @@ function tick(){
   renderer.render(scene,camera);requestAnimationFrame(tick);
 }
 tick();
+
+
+</script>
+<script>
+/* ===== news ticker ===== */
+const NEWS_MAX_AGE_DAYS=14;
+function newsAge(iso){
+  const d=(Date.now()-new Date(iso).getTime())/36e5;
+  if(d<1) return Math.max(1,Math.round(d*60))+"m";
+  if(d<24) return Math.round(d)+"h";
+  return Math.round(d/24)+"d";
+}
+function esc(s){return String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));}
+let newsRAF=null;
+function renderNews(items,stamp,offline){
+  const lane=document.getElementById("newsLane"), st=document.getElementById("newsStamp");
+  if(newsRAF){cancelAnimationFrame(newsRAF);newsRAF=null;}
+  if(!items||!items.length){
+    lane.innerHTML=`<span class="item"><span class="hl">No recent F1 news available.</span></span>`;
+    st.textContent="OFFLINE"; st.classList.add("offline"); return;
+  }
+  st.classList.toggle("offline",!!offline);
+  st.textContent=offline?"OFFLINE":("updated "+newsAge(stamp)+" ago");
+  const one=items.map(n=>
+    `<span class="item"><span class="hl">${esc(n.title)}</span>`+
+    `<span class="src">${esc(n.source)} &middot; ${newsAge(n.published)}</span></span>`+
+    `<span class="sep">&#9679;</span>`).join("");
+  lane.innerHTML=one+one;               /* duplicate for seamless wrap */
+  let x=0;
+  const half=lane.scrollWidth/2;
+  const SPEED=0.55;                      /* px per frame ~33px/s */
+  function step(){
+    x-=SPEED; if(-x>=half) x+=half;
+    lane.style.transform="translateX("+x+"px)";
+    newsRAF=requestAnimationFrame(step);
+  }
+  newsRAF=requestAnimationFrame(step);
+}
+async function loadNews(){
+  try{
+    const r=await fetch("news.json?t="+Date.now(),{cache:"no-store"});
+    if(!r.ok) throw new Error("no news.json");
+    const j=await r.json();
+    const cutoff=Date.now()-NEWS_MAX_AGE_DAYS*864e5;
+    const items=(j.items||[]).filter(n=>new Date(n.published).getTime()>=cutoff);
+    /* stale if the feed itself hasn't been rebuilt in >12h */
+    const stale=j.generated ? (Date.now()-new Date(j.generated).getTime())>432e5 : true;
+    renderNews(items,j.generated,stale);
+  }catch(e){ renderNews(null); }
+}
+loadNews();
+setInterval(loadNews,30*60*1000);   /* re-check every 30 min; pipeline writes every 6h */
 </script>
 </body>
 </html>

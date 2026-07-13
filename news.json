@@ -1,0 +1,43 @@
+{
+ "generated": "2026-07-13T09:08:07+00:00",
+ "max_age_days": 14,
+ "count": 6,
+ "items": [
+  {
+   "title": "Verstappen tops final practice at Silverstone",
+   "url": "https://example.com",
+   "source": "Autosport",
+   "published": "2026-07-13T07:08:07+00:00"
+  },
+  {
+   "title": "McLaren confirm upgrade package for Hungary",
+   "url": "https://example.com",
+   "source": "Motorsport",
+   "published": "2026-07-13T04:08:07+00:00"
+  },
+  {
+   "title": "Audi reveal 2027 power unit test milestone",
+   "url": "https://example.com",
+   "source": "BBC Sport",
+   "published": "2026-07-13T00:08:07+00:00"
+  },
+  {
+   "title": "Cadillac name reserve driver for the remainder of season",
+   "url": "https://example.com",
+   "source": "The Race",
+   "published": "2026-07-12T19:08:07+00:00"
+  },
+  {
+   "title": "Hamilton says Ferrari upgrades have shifted the balance",
+   "url": "https://example.com",
+   "source": "Sky Sports",
+   "published": "2026-07-12T07:08:07+00:00"
+  },
+  {
+   "title": "Stewards summon two drivers over pit-lane incident",
+   "url": "https://example.com",
+   "source": "RaceFans",
+   "published": "2026-07-11T19:08:07+00:00"
+  }
+ ]
+}
