@@ -1,13 +1,157 @@
 {
- "generated": "2026-07-17T20:46:58+00:00",
+ "generated": "2026-07-18T04:44:40+00:00",
  "max_age_days": 14,
  "count": 40,
  "items": [
   {
-   "title": "DeChambeau handed dramatic penalty in controversial Open ruling",
+   "title": "F1MATHS: Telemetry reveals how Ferrari lose six tenths to Mercedes through Spa’s high-speed ...",
+   "url": "https://www.f1technical.net/news/28935",
+   "source": "F1technical",
+   "published": "2026-07-18T03:56:25+00:00"
+  },
+  {
+   "title": "Ferrari driver offer their verdict after tough opening day at Spa",
+   "url": "https://www.f1technical.net/news/28941",
+   "source": "F1technical",
+   "published": "2026-07-18T03:00:00+00:00"
+  },
+  {
+   "title": "Russell rues difficult Friday as Mercedes searches for answers at Spa",
+   "url": "https://www.f1technical.net/news/28940",
+   "source": "F1technical",
+   "published": "2026-07-18T01:00:00+00:00"
+  },
+  {
+   "title": "Mercedes confident Russell has more pace to unlock despite difficult Friday at Spa",
+   "url": "https://www.f1technical.net/news/28939",
+   "source": "F1technical",
+   "published": "2026-07-18T01:00:00+00:00"
+  },
+  {
+   "title": "Antonelli encouraged by Mercedes turnaround after topping Belgian Grand Prix FP2",
+   "url": "https://www.f1technical.net/news/28938",
+   "source": "F1technical",
+   "published": "2026-07-18T01:00:00+00:00"
+  },
+  {
+   "title": "McLaren optimistic despite disrupted Friday as Norris shines and Piastri overcomes hydraulic setback",
+   "url": "https://www.f1technical.net/news/28937",
+   "source": "F1technical",
+   "published": "2026-07-18T01:00:00+00:00"
+  },
+  {
+   "title": "Red Bull reveal when their Macarena rear wing might return to action",
+   "url": "https://www.f1technical.net/news/28936",
+   "source": "F1technical",
+   "published": "2026-07-18T01:00:00+00:00"
+  },
+  {
+   "title": "F1TECH: Racing Bulls continue aggressive development with four-part upgrade package for Belgian ...",
+   "url": "https://www.f1technical.net/news/28933",
+   "source": "F1technical",
+   "published": "2026-07-18T00:00:00+00:00"
+  },
+  {
+   "title": "F1TECH: Red Bull reverts to previous rear wing as team introduces revised pylon design for ...",
+   "url": "https://www.f1technical.net/news/28932",
+   "source": "F1technical",
+   "published": "2026-07-18T00:00:00+00:00"
+  },
+  {
+   "title": "F1TECH: McLaren introduce two-part aerodynamic upgrade package at Spa",
+   "url": "https://www.f1technical.net/news/28931",
+   "source": "F1technical",
+   "published": "2026-07-18T00:00:00+00:00"
+  },
+  {
+   "title": "Lewis Hamilton has Michael Jordan mentality, says \"F1\" movie star Damson Idris",
+   "url": "https://www.motorsport.com/f1/news/lewis-hamilton-has-michael-jordan-mentality-says-f1-movie-star-damson-idris/10839641/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "source": "Motorsport",
+   "published": "2026-07-17T23:26:24+00:00"
+  },
+  {
+   "title": "Round-up: Norris feels “violated” by intrusion into his private life, and more | RaceFans Round-up",
+   "url": "https://www.racefans.net/2026/07/18/round-up-18th-july-2026/",
+   "source": "RaceFans",
+   "published": "2026-07-17T23:01:00+00:00"
+  },
+  {
+   "title": "F1TECH: Haas brings four-part aerodynamic upgrade package to Spa for Belgian Grand Prix",
+   "url": "https://www.f1technical.net/news/28929",
+   "source": "F1technical",
+   "published": "2026-07-17T23:00:00+00:00"
+  },
+  {
+   "title": "F1TECH: Williams introduces new floor and Spa-specific aerodynamic package",
+   "url": "https://www.f1technical.net/news/28928",
+   "source": "F1technical",
+   "published": "2026-07-17T23:00:00+00:00"
+  },
+  {
+   "title": "F1TECH: Alpine introduces revised halo at Spa-Francorchamps",
+   "url": "https://www.f1technical.net/news/28934",
+   "source": "F1technical",
+   "published": "2026-07-17T22:50:00+00:00"
+  },
+  {
+   "title": "Herbert leads The Open as DeChambeau penalised for rules infringement",
+   "url": "https://www.skysports.com/watch/video/13564548/the-open-round-two-highlights",
+   "source": "Sky Sports",
+   "published": "2026-07-17T22:46:00+00:00"
+  },
+  {
+   "title": "Papers: Arsenal preparing offer for Aston Villa defender Konsa",
+   "url": "https://www.skysports.com/football/news/12040/13564545/ezri-konsa-arsenal-preparing-offer-for-aston-villa-defender-as-morgan-rogers-talks-continue-paper-talk",
+   "source": "Sky Sports",
+   "published": "2026-07-17T22:45:00+00:00"
+  },
+  {
+   "title": "Wigan edge past Huddersfield as St Helens compound Catalans struggles",
+   "url": "https://www.skysports.com/rugby-league/news/12040/13564546/super-league-wigan-warriors-edge-past-huddersfield-giants-as-st-helens-saints-secure-victory-over-struggling-catalans-dragons",
+   "source": "Sky Sports",
+   "published": "2026-07-17T22:36:00+00:00"
+  },
+  {
+   "title": "Arvid Lindblad shares driving test update ahead of F1 Belgian GP",
+   "url": "https://www.motorsport.com/f1/news/arvid-lindblad-shares-driving-test-update-ahead-of-f1-belgian-gp/10839638/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "source": "Motorsport",
+   "published": "2026-07-17T22:22:01+00:00"
+  },
+  {
+   "title": "The Open: Saturday's R3 pairings and tee times for Royal Birkdale",
+   "url": "https://www.skysports.com/golf/news/12040/13564494/the-open-2026-tee-times-full-r3-pairings-and-start-times-for-third-round-of-mens-major-at-royal-birkdale",
+   "source": "Sky Sports",
+   "published": "2026-07-17T22:11:00+00:00"
+  },
+  {
+   "title": "Long-run analysis: Can anyone beat Kimi Antonelli in Belgium?",
+   "url": "https://www.motorsport.com/f1/news/long-run-analysis-can-anyone-beat-kimi-antonelli-in-belgium/10839636/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "source": "Motorsport",
+   "published": "2026-07-17T22:09:39+00:00"
+  },
+  {
+   "title": "F1TECH: The three upgrades Mercedes introduced at Spa-Francorchamps",
+   "url": "https://www.f1technical.net/news/28927",
+   "source": "F1technical",
+   "published": "2026-07-17T22:00:00+00:00"
+  },
+  {
+   "title": "Herbert leads The Open after historic round and DeChambeau rules drama",
+   "url": "https://www.skysports.com/golf/news/12040/13564304/the-open-lucas-herbert-equals-major-history-to-lead-as-bryson-dechambeau-involved-in-royal-birkdale-rules-drama",
+   "source": "Sky Sports",
+   "published": "2026-07-17T22:00:00+00:00"
+  },
+  {
+   "title": "DeChambeau considers Open withdrawal after controversial rules breach",
    "url": "https://www.skysports.com/golf/news/12040/13564533/the-open-bryson-dechambeau-handed-two-shot-penalty-after-controversial-ruling-in-second-round-at-royal-birkdale",
    "source": "Sky Sports",
    "published": "2026-07-17T21:37:00+00:00"
+  },
+  {
+   "title": "Does Bryson improve his lie? DeChambeau given two-shot penalty after rules drama!",
+   "url": "https://www.skysports.com/watch/video/13564532/the-open-bryson-dechambeau-involved-in-post-round-rules-infringement-drama",
+   "source": "Sky Sports",
+   "published": "2026-07-17T21:16:00+00:00"
   },
   {
    "title": "Saints boss Eckert reveals police protection amid threats during 'Spygate'",
@@ -16,28 +160,28 @@
    "published": "2026-07-17T21:15:00+00:00"
   },
   {
+   "title": "Blaze rout Durham in 10-wicket win to secure Women's T20 Blast title",
+   "url": "https://www.skysports.com/cricket/news/12040/13564534/womens-t20-blast-tammy-beaumont-and-sarah-bryce-dominate-durham-in-10-wicket-win-to-secure-title-on-finals-day",
+   "source": "Sky Sports",
+   "published": "2026-07-17T21:14:00+00:00"
+  },
+  {
    "title": "Man Utd latest: Ederson signs new Atalanta deal",
    "url": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
    "source": "Sky Sports",
    "published": "2026-07-17T20:00:00+00:00"
   },
   {
+   "title": "'Oh dear...' | Rahm's club toss that led to code of conduct warning!",
+   "url": "https://www.skysports.com/watch/video/13564516/the-open-is-jon-rahm-set-for-code-of-conduct-warning-after-club-toss-at-birkdale",
+   "source": "Sky Sports",
+   "published": "2026-07-17T19:39:00+00:00"
+  },
+  {
    "title": "Hamilton hopeful of closing 'bigger than anticipated' Ferrari Spa deficit",
    "url": "https://www.skysports.com/f1/news/12040/13564266/belgian-gp-lewis-hamilton-hopeful-of-closing-bigger-than-anticipated-ferrari-deficit-to-mercedes-at-spa-francorchamps",
    "source": "Sky Sports",
    "published": "2026-07-17T19:30:00+00:00"
-  },
-  {
-   "title": "Some England players bemused by Tuchel subs in Argentina defeat",
-   "url": "https://www.skysports.com/football/news/12040/13564497/some-england-players-bemused-by-thomas-tuchel-subs-in-argentina-world-cup-semi-final-defeat",
-   "source": "Sky Sports",
-   "published": "2026-07-17T19:15:00+00:00"
-  },
-  {
-   "title": "'Police protection and threats' | Eckert reveals impact of Spygate scandal",
-   "url": "https://www.skysports.com/watch/video/13564509/exclusive-interview-with-tonda-eckert-as-southampton-boss-reveals-challenges-from-spygate-aftermath",
-   "source": "Sky Sports",
-   "published": "2026-07-17T19:12:00+00:00"
   },
   {
    "title": "\"Not getting ahead of ourselves\" - Why Norris was downbeat in Belgium despite F1 practice pace",
@@ -94,154 +238,10 @@
    "published": "2026-07-17T18:04:00+00:00"
   },
   {
-   "title": "Humphries targeting 'dream draw' of beating Littler in Matchplay final",
-   "url": "https://www.skysports.com/darts/news/12040/13564341/world-matchplay-darts-2026-luke-humphries-targeting-dream-draw-of-beating-rival-luke-littler-in-final-for-chance-to-beat-the-best",
-   "source": "Sky Sports",
-   "published": "2026-07-17T18:00:00+00:00"
-  },
-  {
    "title": "Super Sprint tips: Kate is taking on Sam and Declan in the Newbury feature",
    "url": "https://www.skysports.com/racing/news/12040/13564486/weekend-winners-kate-sam-and-declan-have-their-say-on-the-super-sprint",
    "source": "Sky Sports",
    "published": "2026-07-17T17:51:00+00:00"
-  },
-  {
-   "title": "Franco Colapinto \"much more\" nervous for World Cup final than F1 Belgian GP",
-   "url": "https://www.motorsport.com/f1/news/franco-colapinto-much-more-nervous-for-world-cup-final-than-f1-belgian-gp/10839556/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "source": "Motorsport",
-   "published": "2026-07-17T17:47:55+00:00"
-  },
-  {
-   "title": "F1MATHS: Telemetry reveals how Ferrari lose six tenths to Mercedes through Spa’s high-speed ...",
-   "url": "https://www.f1technical.net/news/28935",
-   "source": "F1technical",
-   "published": "2026-07-17T17:39:20+00:00"
-  },
-  {
-   "title": "Red Bull expects to run its ‘Macarena’ wing again at next F1 race",
-   "url": "https://www.autosport.com/f1/news/red-bull-expects-its-macarena-wing-to-return-at-next-f1-race/10839549/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-   "source": "Autosport",
-   "published": "2026-07-17T17:36:05+00:00"
-  },
-  {
-   "title": "Red Bull expects its ‘Macarena’ wing to return at next F1 race",
-   "url": "https://www.motorsport.com/f1/news/red-bull-expects-its-macarena-wing-to-return-at-next-f1-race/10839542/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "source": "Motorsport",
-   "published": "2026-07-17T17:36:01+00:00"
-  },
-  {
-   "title": "Antonelli tops FP2 as Gasly crashes heavily at Spa",
-   "url": "https://www.bbc.co.uk/sport/formula1/articles/cm2g9z3pr3yo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-07-17T17:33:27+00:00"
-  },
-  {
-   "title": "How to follow Belgian Grand Prix on the BBC",
-   "url": "https://www.bbc.co.uk/sport/formula1/articles/cr47gkqerdpo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-07-17T17:08:22+00:00"
-  },
-  {
-   "title": "Antonelli fastest in Belgian GP practice as Russell struggles",
-   "url": "https://www.skysports.com/f1/news/12040/13564262/belgian-gp-kimi-antonelli-tops-practice-two-at-spa-as-his-mercedes-team-mate-george-russell-struggles-to-eighth",
-   "source": "Sky Sports",
-   "published": "2026-07-17T17:05:00+00:00"
-  },
-  {
-   "title": "Could bizarre training accident scupper Hodgkinson's world record attempt?",
-   "url": "https://www.skysports.com/athletics/news/12040/13564467/keely-hodgkinson-could-bizarre-training-accident-cost-olympic-champion-in-attempt-to-break-oldest-record-in-athletics",
-   "source": "Sky Sports",
-   "published": "2026-07-17T16:54:00+00:00"
-  },
-  {
-   "title": "How Racing Bulls let a driver shootout decide who got its Spa F1 cooling upgrade",
-   "url": "https://www.motorsport.com/f1/news/how-racing-bulls-let-a-driver-shootout-decide-over-its-spa-f1-cooling-upgrade/10839503/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "source": "Motorsport",
-   "published": "2026-07-17T16:35:21+00:00"
-  },
-  {
-   "title": "How Racing Bulls let a driver battle decide who got its F1 car cooling upgrade for Belgian GP",
-   "url": "https://www.autosport.com/f1/news/how-racing-bulls-let-a-driver-battle-decide-who-got-its-f1-car-cooling-upgrade-for-belgian-gp/10839516/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-   "source": "Autosport",
-   "published": "2026-07-17T16:34:01+00:00"
-  },
-  {
-   "title": "F1 Belgian GP: Antonelli headlines FP2 over Norris, Gasly crash causes red flag",
-   "url": "https://www.autosport.com/f1/news/f1-belgian-gp-fp2-report-/10839496/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-   "source": "Autosport",
-   "published": "2026-07-17T16:10:36+00:00"
-  },
-  {
-   "title": "FP2: Antonelli tops second Spa practice as Mercedes-powered cars dominate track action",
-   "url": "https://www.f1technical.net/news/28930",
-   "source": "F1technical",
-   "published": "2026-07-17T16:09:00+00:00"
-  },
-  {
-   "title": "F1 Belgian GP: Kimi Antonelli headlines FP2 over Lando Norris as Pierre Gasly causes red flag",
-   "url": "https://www.motorsport.com/f1/news/f1-belgian-gp-fp2-report-/10839494/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "source": "Motorsport",
-   "published": "2026-07-17T16:08:08+00:00"
-  },
-  {
-   "title": "Martin Brundle reveals \"gut feeling\" on Max Verstappen's Red Bull future",
-   "url": "https://www.motorsport.com/f1/news/martin-brundle-reveals-gut-feeling-on-max-verstappens-red-bull-future/10839505/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "source": "Motorsport",
-   "published": "2026-07-17T16:08:06+00:00"
-  },
-  {
-   "title": "Norris handed 10-place Belgian GP grid penalty after McLaren opts for reliability upgrade",
-   "url": "https://www.f1technical.net/news/28925",
-   "source": "F1technical",
-   "published": "2026-07-17T16:00:00+00:00"
-  },
-  {
-   "title": "Hamilton, Leclerc avoid Spa grid penalties as Ferrari fined for tyre error",
-   "url": "https://www.skysports.com/f1/live-blog/12040/13563321/f1-belgian-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-weekend-at-spa-francorchamps",
-   "source": "Sky Sports",
-   "published": "2026-07-17T15:40:00+00:00"
-  },
-  {
-   "title": "Hadjar to start Belgian Grand Prix from the back after Red Bull power unit change",
-   "url": "https://www.f1technical.net/news/28926",
-   "source": "F1technical",
-   "published": "2026-07-17T15:30:00+00:00"
-  },
-  {
-   "title": "Kimi Antonelli admits he sometimes wishes he could go unrecognised as he opens up on rising fame",
-   "url": "https://www.motorsport.com/f1/news/kimi-antonelli-admits-he-sometimes-wishes-he-could-go-unrecognised-as-he-opens-up-on-rising-fame/10839487/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "source": "Motorsport",
-   "published": "2026-07-17T15:00:39+00:00"
-  },
-  {
-   "title": "Szoboszlai signs new long-term Liverpool deal",
-   "url": "https://www.skysports.com/football/news/12040/13564294/dominik-szoboszlai-midfielder-signs-new-five-year-deal-at-liverpool",
-   "source": "Sky Sports",
-   "published": "2026-07-17T15:00:00+00:00"
-  },
-  {
-   "title": "Vowles: 2027 F1 chassis changes are 'fairly significant'",
-   "url": "https://www.skysports.com/f1/live-blog/12040/12466779/f1-news-rumours-and-gossip-formula-1-latest-updates-on-teams-driver-transfer-market-and-contracts",
-   "source": "Sky Sports",
-   "published": "2026-07-17T14:31:00+00:00"
-  },
-  {
-   "title": "Esteban Ocon unveils special \"Spider-Man: Brand New Day\" helmet to Tom Holland",
-   "url": "https://www.motorsport.com/f1/news/esteban-ocon-unveils-special-spider-man-brand-new-day-helmet-to-tom-holland/10839474/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "source": "Motorsport",
-   "published": "2026-07-17T14:25:10+00:00"
-  },
-  {
-   "title": "'INCHES from history!' The agonising moment Herbert misses putt for major record",
-   "url": "https://www.skysports.com/watch/video/13564406/the-open-lucas-herbert-misses-putt-to-make-history-at-royal-birkdale",
-   "source": "Sky Sports",
-   "published": "2026-07-17T14:22:00+00:00"
-  },
-  {
-   "title": "Verstappen tops Hamilton as Mercedes struggle in first Spa practice",
-   "url": "https://www.skysports.com/f1/news/12040/13564258/belgian-gp-max-verstappen-tops-lewis-hamilton-as-mercedes-struggle-in-spa-francorchamps-first-practice",
-   "source": "Sky Sports",
-   "published": "2026-07-17T13:35:00+00:00"
   }
  ]
 }
