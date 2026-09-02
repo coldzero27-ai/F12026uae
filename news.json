@@ -1,31 +1,169 @@
 {
- "generated": "2026-09-02T17:32:43+00:00",
+ "generated": "2026-09-02T22:15:04+00:00",
  "max_age_days": 14,
  "count": 40,
  "items": [
   {
-   "title": "Fury launches fresh swipe at Joshua as talks continue",
-   "url": "https://www.skysports.com/boxing/news/12040/13580468/tyson-fury-launches-fresh-attack-on-anthony-joshua-as-talks-over-fight-continue",
+   "title": "Clippers fined $30m and owner suspended after Leonard scandal",
+   "url": "https://www.skysports.com/nba/news/12040/13580599/kawhi-leonard-los-angeles-clippers-fined-30m-and-stripped-of-five-first-round-picks-after-leonard-salary-cap-scandal",
    "source": "Sky Sports",
-   "published": "2026-09-02T18:10:00+00:00"
+   "published": "2026-09-02T22:15:00+00:00"
   },
   {
-   "title": "South African aviation regulator probes low jet flypast",
-   "url": "https://www.skysports.com/rugby-union/news/12040/13580463/south-africa-vs-new-zealand-cape-town-stadium-low-jet-flypast-probed-by-south-african-aviation-authority",
-   "source": "Sky Sports",
-   "published": "2026-09-02T17:30:00+00:00"
+   "title": "Norris launches LN4 Fusion junior racing ladder",
+   "url": "http://www.grandprix.com/news/norris-launches-ln4-fusion-junior-racing-ladder.html",
+   "source": "GrandPrix",
+   "published": "2026-09-02T21:56:06+00:00"
   },
   {
-   "title": "'We're going to win lots together' | Enzo's first interview since joining Man City",
-   "url": "https://www.skysports.com/watch/video/13580451/premier-league-enzo-fernandez-gives-first-interview-since-joining-manchester-city",
-   "source": "Sky Sports",
-   "published": "2026-09-02T17:23:00+00:00"
+   "title": "Hadjar misses Monza as Tsunoda gets another race",
+   "url": "http://www.grandprix.com/news/hadjar-misses-monza-tsunoda-gets-another-race.html",
+   "source": "GrandPrix",
+   "published": "2026-09-02T21:55:06+00:00"
   },
   {
-   "title": "'This is very bad!' | Medvedev fumes as birds halt play!",
+   "title": "Shankland at the double as Rangers win at Falkirk",
+   "url": "https://www.skysports.com/football/falkirk-vs-rangers/report/558359",
+   "source": "Sky Sports",
+   "published": "2026-09-02T21:50:00+00:00"
+  },
+  {
+   "title": "Wrexham breeze past Millwall to claim first win",
+   "url": "https://www.skysports.com/watch/video/13580547/millwall-0-3-wrexham-championship-highlights",
+   "source": "Sky Sports",
+   "published": "2026-09-02T21:48:00+00:00"
+  },
+  {
+   "title": "Burrell brace sees QPR beat Cardiff",
+   "url": "https://www.skysports.com/watch/video/13580544/qpr-2-1-cardiff-city-championship-highlights",
+   "source": "Sky Sports",
+   "published": "2026-09-02T21:46:00+00:00"
+  },
+  {
+   "title": "Papers: Wantaway Spurs striker Richarlison agrees Trabzonspor terms",
+   "url": "https://www.skysports.com/football/news/12040/13580536/richarlison-transfer-news-tottenham-striker-agrees-terms-with-trabzonspor-paper-talk",
+   "source": "Sky Sports",
+   "published": "2026-09-02T21:45:00+00:00"
+  },
+  {
+   "title": "Charlton hit back to hold West Brom",
+   "url": "https://www.skysports.com/football/west-bromwich-albion-vs-charlton-athletic/report/560545",
+   "source": "Sky Sports",
+   "published": "2026-09-02T21:35:00+00:00"
+  },
+  {
+   "title": "Burnley battle back to hold Middlesbrough",
+   "url": "https://www.skysports.com/football/burnley-vs-middlesbrough/report/560542",
+   "source": "Sky Sports",
+   "published": "2026-09-02T21:35:00+00:00"
+  },
+  {
+   "title": "Wrexham earn first win of the season at Millwall",
+   "url": "https://www.skysports.com/football/millwall-vs-wrexham/report/560543",
+   "source": "Sky Sports",
+   "published": "2026-09-02T21:35:00+00:00"
+  },
+  {
+   "title": "Burrell double steers QPR to victory",
+   "url": "https://www.skysports.com/football/queens-park-rangers-vs-cardiff-city/report/560544",
+   "source": "Sky Sports",
+   "published": "2026-09-02T21:35:00+00:00"
+  },
+  {
+   "title": "St Johnstone secure Tayside derby draw after late drama at Dundee",
+   "url": "https://www.skysports.com/football/dundee-vs-st-johnstone/report/558358",
+   "source": "Sky Sports",
+   "published": "2026-09-02T21:35:00+00:00"
+  },
+  {
+   "title": "Motherwell continue unbeaten league start with stroll against Dundee United",
+   "url": "https://www.skysports.com/football/motherwell-vs-dundee-united/report/558362",
+   "source": "Sky Sports",
+   "published": "2026-09-02T21:35:00+00:00"
+  },
+  {
+   "title": "Kilmarnock remain without a point after loss to high-flying St Mirren",
+   "url": "https://www.skysports.com/football/kilmarnock-vs-st-mirren/report/558361",
+   "source": "Sky Sports",
+   "published": "2026-09-02T21:35:00+00:00"
+  },
+  {
+   "title": "Duran nets again as Celtic maintain perfect start with win over Aberdeen",
+   "url": "https://www.skysports.com/football/celtic-vs-aberdeen/report/558357",
+   "source": "Sky Sports",
+   "published": "2026-09-02T21:35:00+00:00"
+  },
+  {
+   "title": "Boulter blown away by Muchova at US Open",
+   "url": "https://www.skysports.com/tennis/news/12040/13580530/us-open-2026-katie-boulter-blown-away-by-karolina-muchova",
+   "source": "Sky Sports",
+   "published": "2026-09-02T21:10:00+00:00"
+  },
+  {
+   "title": "Walsh winner helps send Chelsea through in Women’s Champions League",
+   "url": "https://www.skysports.com/football/real-sociedad-women-vs-chelsea-women/report/577459",
+   "source": "Sky Sports",
+   "published": "2026-09-02T20:15:00+00:00"
+  },
+  {
+   "title": "Social Media: Norris forms junior team LN4Fusion to race in F3 and potentially F2 | Brief",
+   "url": "https://www.racefans.net/2026/09/02/social-media-norris-forms-junior-team-ln4fusion-to-race-in-f3-and-potentially-f2/",
+   "source": "RaceFans",
+   "published": "2026-09-02T19:34:49+00:00"
+  },
+  {
+   "title": "Wrexham, QPR win; Burnley hold Boro - EFL highlights",
+   "url": "https://www.skysports.com/football/live-blog/12040/13579447/championship-live-scores-match-updates-and-free-highlights-plus-efl-latest-from-league-one",
+   "source": "Sky Sports",
+   "published": "2026-09-02T19:15:00+00:00"
+  },
+  {
+   "title": "Lando Norris launches race team, young driver programme",
+   "url": "https://www.motorsport.com/f1/news/lando-norris-launches-race-team-young-driver-programme/10851664/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "source": "Motorsport",
+   "published": "2026-09-02T19:11:12+00:00"
+  },
+  {
+   "title": "Norris sets up junior team to help drivers to F1",
+   "url": "https://www.bbc.co.uk/sport/formula1/articles/cwyzpy818nlo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-09-02T18:51:01+00:00"
+  },
+  {
+   "title": "Van Leuven hits incredible NINE-DARTER!",
+   "url": "https://www.skysports.com/watch/video/13580491/noa-lynn-van-leuven-hits-incredible-nine-darter",
+   "source": "Sky Sports",
+   "published": "2026-09-02T18:42:00+00:00"
+  },
+  {
+   "title": "Why Balogun's move collapsed to leave Everton, Chelsea and Monaco upset",
+   "url": "https://www.skysports.com/football/news/12040/13580477/why-folarin-baloguns-everton-move-collapsed-on-deadline-day-leaving-toffees-chelsea-and-monaco-frustrated",
+   "source": "Sky Sports",
+   "published": "2026-09-02T18:25:00+00:00"
+  },
+  {
+   "title": "Racing Bulls joins rotating rear-wing development race with Imola test",
+   "url": "https://www.f1technical.net/news/29212",
+   "source": "F1technical",
+   "published": "2026-09-02T18:00:00+00:00"
+  },
+  {
+   "title": "Why did Vowles find it crucial to retain Sainz and Albon for 2027?",
+   "url": "https://www.f1technical.net/news/29190",
+   "source": "F1technical",
+   "published": "2026-09-02T18:00:00+00:00"
+  },
+  {
+   "title": "Medvedev FUMES as birds halt play!",
    "url": "https://www.skysports.com/watch/video/13580444/us-open-daniil-medvedev-fumes-as-birds-halt-play",
    "source": "Sky Sports",
    "published": "2026-09-02T17:08:00+00:00"
+  },
+  {
+   "title": "2027 Adelaide MotoGP circuit unveiled ahead of historic Australian Grand Prix",
+   "url": "https://www.f1technical.net/news/29217",
+   "source": "F1technical",
+   "published": "2026-09-02T17:00:00+00:00"
   },
   {
    "title": "‘They think we're against the British’ - FIA president wades into F1 stewards debate",
@@ -52,46 +190,22 @@
    "published": "2026-09-02T15:42:00+00:00"
   },
   {
-   "title": "US Open LIVE! Brits Fearnley, Choinski in action with Boulter, Samuel, Jones to come",
-   "url": "https://www.skysports.com/tennis/live-blog/12040/13580222/us-open-live-scores-updates-news-commentary-and-results-from-new-york-with-katie-boulter-jacob-fearnley-jan-choinski-and-toby-samuel-in-action",
-   "source": "Sky Sports",
-   "published": "2026-09-02T15:30:00+00:00"
-  },
-  {
-   "title": "India to hold Women's Champions Trophy as Sri Lanka removed as hosts",
-   "url": "https://www.skysports.com/cricket/news/12040/13580401/womens-champions-trophy-icc-confirm-india-as-venue-for-inaugural-edition-after-sri-lanka-removed-from-hosting-rights",
-   "source": "Sky Sports",
-   "published": "2026-09-02T15:30:00+00:00"
-  },
-  {
    "title": "Five things to look out for at the F1 Italian GP",
    "url": "https://www.motorsport.com/f1/news/five-things-to-watch-out-for-at-the-f1-italian-gp/10851613/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "source": "Motorsport",
    "published": "2026-09-02T15:23:24+00:00"
   },
   {
-   "title": "Hadjar to miss Italian GP with ongoing wrist injury",
-   "url": "https://www.skysports.com/f1/news/12040/13580313/isack-hadjar-to-miss-italian-grand-prix-with-wrist-injury-as-liam-lawson-gets-another-red-bull-opportunity-at-monza",
-   "source": "Sky Sports",
-   "published": "2026-09-02T15:05:00+00:00"
+   "title": "Lawson to replace Hadjar again at Red Bull as Tsunoda continues Racing Bulls stint in Monza",
+   "url": "https://www.f1technical.net/news/29230",
+   "source": "F1technical",
+   "published": "2026-09-02T14:53:02+00:00"
   },
   {
    "title": "Mercedes rules out ADUO engine upgrade at Italian GP as updated F1 power unit due in October",
    "url": "https://www.motorsport.com/f1/news/f1-mercedes-no-aduo-at-monza-new-pu-due-in-october/10851589/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "source": "Motorsport",
    "published": "2026-09-02T14:43:35+00:00"
-  },
-  {
-   "title": "'I'm getting emotional!' | Taylor gets teary reflecting on dream farewell fight",
-   "url": "https://www.skysports.com/watch/video/13580391/im-getting-emotional-katie-taylor-gets-teary-reflecting-on-dream-farewell-fight",
-   "source": "Sky Sports",
-   "published": "2026-09-02T14:38:00+00:00"
-  },
-  {
-   "title": "Ferrari confirm Italian GP engine upgrade for Hamilton, Leclerc",
-   "url": "https://www.skysports.com/f1/news/12040/13580369/italian-gp-ferrari-confirm-engine-upgrade-for-lewis-hamilton-charles-leclerc-at-home-race-in-monza",
-   "source": "Sky Sports",
-   "published": "2026-09-02T14:10:00+00:00"
   },
   {
    "title": "Red Bull to keep Dutch GP driver line-up for Monza with Hadjar still injured",
@@ -112,30 +226,6 @@
    "published": "2026-09-02T14:01:37+00:00"
   },
   {
-   "title": "Tiger Woods handed five-year driving ban after Florida crash",
-   "url": "https://www.skysports.com/golf/news/12040/13580307/tiger-woods-enters-plea-agreement-to-reckless-driving-charge-and-issued-five-year-driving-suspension-in-florida-court",
-   "source": "Sky Sports",
-   "published": "2026-09-02T14:00:00+00:00"
-  },
-  {
-   "title": "Cameron says talks are 'advanced' to fight Shields",
-   "url": "https://www.skysports.com/boxing/news/12040/13580306/chantelle-cameron-says-talks-are-advanced-to-fight-claressa-shields-following-victory-over-mikaela-mayer",
-   "source": "Sky Sports",
-   "published": "2026-09-02T13:50:00+00:00"
-  },
-  {
-   "title": "How does every Premier League club's summer window rank?",
-   "url": "https://www.skysports.com/football/news/12040/13580212/premier-league-transfer-window-sky-sports-reporters-rank-your-clubs-summer-after-dramatic-deadline-day",
-   "source": "Sky Sports",
-   "published": "2026-09-02T13:00:00+00:00"
-  },
-  {
-   "title": "Best (and worst) buyers and sellers of the transfer window revealed",
-   "url": "https://www.skysports.com/football/news/12040/13579892/chelsea-liverpool-aston-villa-best-and-worst-buyers-and-sellers-of-the-summer-transfer-window-between-the-lines",
-   "source": "Sky Sports",
-   "published": "2026-09-02T13:00:00+00:00"
-  },
-  {
    "title": "Ferrari to bring upgraded engine to Italian GP under ADUO",
    "url": "https://www.autosport.com/f1/news/ferraris-italian-gp-aduo-update/10851568/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
    "source": "Autosport",
@@ -148,100 +238,10 @@
    "published": "2026-09-02T12:52:39+00:00"
   },
   {
-   "title": "MVG starts World Series of Darts Finals defence against Ilagan",
-   "url": "https://www.skysports.com/darts/news/12040/13580326/world-series-of-darts-finals-michael-van-gerwen-faces-lourence-ilagan-to-start-title-defence-as-luke-littler-takes-on-danny-noppert",
-   "source": "Sky Sports",
-   "published": "2026-09-02T12:15:00+00:00"
-  },
-  {
-   "title": "Ferrari reveal Schumacher-inspired livery as teams announce rookies for Italian GP Practice",
-   "url": "https://www.skysports.com/f1/live-blog/12040/13580330/f1-italian-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-weekend-at-monza",
-   "source": "Sky Sports",
-   "published": "2026-09-02T12:05:00+00:00"
-  },
-  {
-   "title": "Will Hamilton, Russell or Norris seize title-race opening at Monza?",
-   "url": "https://www.skysports.com/f1/news/12040/13580177/italian-gp-will-lewis-hamilton-george-russell-or-lando-norris-seize-title-race-opening-due-to-kimi-antonelli-grid-penalties",
-   "source": "Sky Sports",
+   "title": "Mercedes identifies key weaknesses to address after Zandvoort defeat",
+   "url": "https://www.f1technical.net/news/29220",
+   "source": "F1technical",
    "published": "2026-09-02T12:00:00+00:00"
-  },
-  {
-   "title": "On this day: Michael Schumacher beats Alain Prost’s F1 victory record",
-   "url": "https://www.motorsport.com/f1/news/on-this-day-michael-schumacher-beats-alain-prosts-f1-victory-record/10851125/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "source": "Motorsport",
-   "published": "2026-09-02T11:34:34+00:00"
-  },
-  {
-   "title": "‘Dad was driving angry’: Jacques Villeneuve on his father Gilles’ fatal crash | Formula 1",
-   "url": "https://www.racefans.net/2026/09/02/dad-was-driving-angry-jacques-villeneuve-on-his-father-gilles-fatal-crash/",
-   "source": "RaceFans",
-   "published": "2026-09-02T11:12:16+00:00"
-  },
-  {
-   "title": "FIA wrong to lift Russia ban - Ukraine minister",
-   "url": "https://www.bbc.co.uk/sport/formula1/articles/c4gj0z94dw2o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-09-02T10:25:43+00:00"
-  },
-  {
-   "title": "Temple of Speed or Cathedral of Clipping? Eight talking points for the 2026 Italian GP | Formula 1",
-   "url": "https://www.racefans.net/2026/09/02/temple-of-speed-or-cathedral-of-clipping-eight-talking-points-for-the-2026-italian-gp/",
-   "source": "RaceFans",
-   "published": "2026-09-02T10:00:57+00:00"
-  },
-  {
-   "title": "'You're my Wonderwall!' | Fan sings Oasis classic DURING Fery match at US Open",
-   "url": "https://www.skysports.com/watch/video/13580283/fan-sings-oasis-classic-wonderwall-during-arthur-fery-match-against-lorenzo-musetti-at-us-open",
-   "source": "Sky Sports",
-   "published": "2026-09-02T09:48:00+00:00"
-  },
-  {
-   "title": "\"We want to see Franco Colapinto\" - Argentinian president pushes for F1 return",
-   "url": "https://www.motorsport.com/f1/news/we-want-to-see-franco-colapinto-argentinian-president-pushes-for-f1-return/10851517/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "source": "Motorsport",
-   "published": "2026-09-02T09:37:13+00:00"
-  },
-  {
-   "title": "Qatar says it is \"safe\" and hopes to keep F1, MotoGP races despite Middle East conflict",
-   "url": "https://www.motorsport.com/f1/news/qatar-aims-to-keep-f1-and-motogp-races-despite-uncertainty/10851500/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "source": "Motorsport",
-   "published": "2026-09-02T08:35:11+00:00"
-  },
-  {
-   "title": "Etienne chases first success at Bath",
-   "url": "https://www.skysports.com/racing/news/12040/13579505/today-on-sky-sports-racing-bath-and-newcastle",
-   "source": "Sky Sports",
-   "published": "2026-09-02T07:00:00+00:00"
-  },
-  {
-   "title": "'Fans will crucify them' - Hakkinen issues warning over team orders in title battle",
-   "url": "https://www.skysports.com/f1/news/12040/13579867/f1-fans-will-crucify-teams-if-team-orders-are-used-in-2026-title-battle-says-former-world-champion-mika-hakkinen",
-   "source": "Sky Sports",
-   "published": "2026-09-02T07:00:00+00:00"
-  },
-  {
-   "title": "How to watch the 2026 Italian Grand Prix live this weekend | TV Times",
-   "url": "https://www.racefans.net/2026/09/02/how-to-watch-the-2026-italian-grand-prix-live-this-weekend/",
-   "source": "RaceFans",
-   "published": "2026-09-02T06:15:40+00:00"
-  },
-  {
-   "title": "Red Bull names McCullough Head of Racing for 2027",
-   "url": "http://www.grandprix.com/news/red-bull-names-mccullough-head-of-racing-for-2027.html",
-   "source": "GrandPrix",
-   "published": "2026-09-02T06:02:00+00:00"
-  },
-  {
-   "title": "Qatar presses ahead as F1 weighs November race",
-   "url": "http://www.grandprix.com/news/qatar-presses-ahead-as-f1-weighs-november-race.html",
-   "source": "GrandPrix",
-   "published": "2026-09-02T06:01:00+00:00"
-  },
-  {
-   "title": "Hakkinen warns teams over title orders",
-   "url": "http://www.grandprix.com/news/hakkinen-warns-teams-over-title-orders.html",
-   "source": "GrandPrix",
-   "published": "2026-09-02T06:00:00+00:00"
   }
  ]
 }
