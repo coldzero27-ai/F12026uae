@@ -1,73 +1,139 @@
 {
- "generated": "2026-09-08T17:41:57+00:00",
+ "generated": "2026-09-08T22:16:40+00:00",
  "max_age_days": 14,
  "count": 40,
  "items": [
   {
-   "title": "Sky Sports Golf Podcast: Can 'Lahinch legends' inspire Europe to Solheim glory?",
-   "url": "https://www.skysports.com/golf/news/12040/11933264/sky-sports-golf-podcast",
+   "title": "Osaka's US Open fashion ensemble: Which outfit was your favourite?",
+   "url": "https://www.skysports.com/tennis/news/12040/13583246/us-open-naomi-osakas-fashion-ensemble-in-new-york-which-outfit-was-your-favourite",
    "source": "Sky Sports",
-   "published": "2026-09-08T18:30:00+00:00"
+   "published": "2026-09-08T23:00:00+00:00"
   },
   {
-   "title": "FC Porto vs Man City LIVE!",
-   "url": "https://www.skysports.com/football/fc-porto-vs-manchester-city/live/577600",
+   "title": "Mbappe and Valverde on target as Real Madrid beat Inter Milan",
+   "url": "https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
    "source": "Sky Sports",
-   "published": "2026-09-08T18:30:00+00:00"
+   "published": "2026-09-08T22:42:00+00:00"
+  },
+  {
+   "title": "Bowen at the double as West Ham climb top of the Championship",
+   "url": "https://www.skysports.com/football/bolton-wanderers-vs-west-ham-united/report/560559",
+   "source": "Sky Sports",
+   "published": "2026-09-08T22:00:00+00:00"
+  },
+  {
+   "title": "Willock grabs late goal as Newcastle edge Millwall",
+   "url": "https://www.skysports.com/football/millwall-vs-newcastle-united/report/577582",
+   "source": "Sky Sports",
+   "published": "2026-09-08T22:00:00+00:00"
+  },
+  {
+   "title": "Haaland scores twice in win over Porto but Man City struggle to impress",
+   "url": "https://www.skysports.com/football/fc-porto-vs-manchester-city/report/577600",
+   "source": "Sky Sports",
+   "published": "2026-09-08T22:00:00+00:00"
+  },
+  {
+   "title": "Warwickshire put pressure on Somerset and Nottingham with Glamorgan 19-year first",
+   "url": "https://www.skysports.com/cricket/news/12040/13583334/warwickshire-turn-up-the-heat-on-somerset-and-nottingham-in-county-championship-as-they-inflict-glamorgan-19-year-first",
+   "source": "Sky Sports",
+   "published": "2026-09-08T21:59:00+00:00"
+  },
+  {
+   "title": "LIV Golf files for bankruptcy protection but reveals 2027 plans",
+   "url": "https://www.skysports.com/golf/news/12040/13583306/liv-golf-league-files-for-bankruptcy-protection-in-united-states-but-reveals-2027-plans-as-players-face-uncertain-future",
+   "source": "Sky Sports",
+   "published": "2026-09-08T21:36:00+00:00"
+  },
+  {
+   "title": "Christie nets hat-trick as Bournemouth blitz Championship Lincoln",
+   "url": "https://www.skysports.com/football/bournemouth-vs-lincoln-city/report/577572",
+   "source": "Sky Sports",
+   "published": "2026-09-08T21:35:00+00:00"
+  },
+  {
+   "title": "Southampton knock Swansea off Championship top spot",
+   "url": "https://www.skysports.com/football/southampton-vs-swansea-city/report/560563",
+   "source": "Sky Sports",
+   "published": "2026-09-08T21:30:00+00:00"
+  },
+  {
+   "title": "Colwill earns Cardiff point but winless start continues",
+   "url": "https://www.skysports.com/football/cardiff-city-vs-stoke-city/report/560561",
+   "source": "Sky Sports",
+   "published": "2026-09-08T21:30:00+00:00"
+  },
+  {
+   "title": "Burnley still without a win after draw at Wrexham",
+   "url": "https://www.skysports.com/football/wrexham-vs-burnley/report/560569",
+   "source": "Sky Sports",
+   "published": "2026-09-08T21:30:00+00:00"
+  },
+  {
+   "title": "Watford comeback condemns Preston to fifth defeat in six",
+   "url": "https://www.skysports.com/football/watford-vs-preston-north-end/report/560564",
+   "source": "Sky Sports",
+   "published": "2026-09-08T21:30:00+00:00"
+  },
+  {
+   "title": "Sheff Utd return to winning ways at Blackburn",
+   "url": "https://www.skysports.com/football/blackburn-rovers-vs-sheffield-united/report/560558",
+   "source": "Sky Sports",
+   "published": "2026-09-08T21:30:00+00:00"
+  },
+  {
+   "title": "Arsenal latest: Will Arteta rotate vs Napoli as fixture schedule piles up?",
+   "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+   "source": "Sky Sports",
+   "published": "2026-09-08T21:30:00+00:00"
+  },
+  {
+   "title": "Putellas, Russo, Greenwood, Shaw among 11 WSL players in Ballon d'Or running",
+   "url": "https://www.skysports.com/football/live-blog/12040/13208899/wsl-news-transfers-rumours-gossip-and-womens-football-latest",
+   "source": "Sky Sports",
+   "published": "2026-09-08T20:47:00+00:00"
+  },
+  {
+   "title": "Newcastle latest: Hall hails Jaissle for lifting 'negativity'",
+   "url": "https://www.skysports.com/football/live-blog/12040/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+   "source": "Sky Sports",
+   "published": "2026-09-08T20:00:00+00:00"
+  },
+  {
+   "title": "Aston Villa attack clicks in thrilling win over Club Brugge",
+   "url": "https://www.skysports.com/football/club-brugge-vs-aston-villa/report/577599",
+   "source": "Sky Sports",
+   "published": "2026-09-08T19:45:00+00:00"
+  },
+  {
+   "title": "Carabao Cup highlights! Bournemouth, Palace, Newcastle all through",
+   "url": "https://www.skysports.com/football/live-blog/12040/13582785/carabao-cup-third-round-live-scores-updates-and-free-match-highlights-with-newcastle-sunderland-crystal-palace-in-action",
+   "source": "Sky Sports",
+   "published": "2026-09-08T19:30:00+00:00"
+  },
+  {
+   "title": "Bowen fires West Ham top; Southampton win - Championship highlights",
+   "url": "https://www.skysports.com/football/live-blog/12040/13582850/championship-live-scores-match-updates-and-free-highlights-with-wrexham-west-ham-sheffield-united-in-action",
+   "source": "Sky Sports",
+   "published": "2026-09-08T19:15:00+00:00"
+  },
+  {
+   "title": "Sabalenka survives Noskova battle to keep US Open three-peat bid alive",
+   "url": "https://www.skysports.com/tennis/news/12040/13583242/us-open-2026-aryna-sabalenka-edges-into-semi-finals-with-three-set-win-over-linda-noskova-in-thriller",
+   "source": "Sky Sports",
+   "published": "2026-09-08T19:00:00+00:00"
+  },
+  {
+   "title": "Featured Comment: Is F1’s racing in 2026 better or worse than the DRS era? | Brief",
+   "url": "https://www.racefans.net/2026/09/08/featured-comment-is-f1s-racing-in-2026-better-or-worse-than-the-drs-era/",
+   "source": "RaceFans",
+   "published": "2026-09-08T18:28:49+00:00"
   },
   {
    "title": "Spotlight: Williams to run livery based on 1981 design at Spanish Grand Prix | Brief",
    "url": "https://www.racefans.net/2026/09/08/spotlight-williams-to-run-in-one-off-livery-at-spanish-grand-prix/",
    "source": "RaceFans",
    "published": "2026-09-08T17:19:04+00:00"
-  },
-  {
-   "title": "'Most pressure in the NFL' Finally Allen's time to win Super Bowl?",
-   "url": "https://www.skysports.com/nfl/news/12040/13583197/buffalo-bills-joe-brady-under-pressure-to-lead-josh-allen-to-super-bowl-says-phoebe-schecter",
-   "source": "Sky Sports",
-   "published": "2026-09-08T17:00:00+00:00"
-  },
-  {
-   "title": "Team USA play down injury fears and ready to take down 'tough' Europe",
-   "url": "https://www.skysports.com/golf/news/12040/13583024/solheim-cup-2026-team-usa-play-down-fitness-concern-over-angel-yin-and-relish-chance-to-take-down-tough-team-europe",
-   "source": "Sky Sports",
-   "published": "2026-09-08T17:00:00+00:00"
-  },
-  {
-   "title": "O'Neill could rejig Celtic system to accommodate his best players",
-   "url": "https://www.skysports.com/football/news/12040/13583209/celtic-martin-oneill-could-rejig-system-to-accommodate-his-best-players-against-st-johnstone-live-on-sky-sports",
-   "source": "Sky Sports",
-   "published": "2026-09-08T16:20:00+00:00"
-  },
-  {
-   "title": "Nelson: Fury vs Joshua is less and less likely",
-   "url": "https://www.skysports.com/boxing/news/12040/13583203/tyson-fury-vs-anthony-joshua-is-less-and-less-likely-to-happen-says-johnny-nelson",
-   "source": "Sky Sports",
-   "published": "2026-09-08T16:01:00+00:00"
-  },
-  {
-   "title": "Midweek millions! Play Super 6 to win £1m",
-   "url": "https://www.skysports.com/football/live-blog/12040/13401137/huge-jackpots-to-win-with-super-6-how-to-play-tips-analysis-and-latest-winner-stories",
-   "source": "Sky Sports",
-   "published": "2026-09-08T16:00:00+00:00"
-  },
-  {
-   "title": "Kane, Rice, Bellingham among Ballon d'Or nominees but no Ronaldo",
-   "url": "https://www.skysports.com/football/news/12040/13582892/ballon-dor-2026-harry-kane-declan-rice-jude-bellingham-among-nominees-but-no-cristiano-ronaldo",
-   "source": "Sky Sports",
-   "published": "2026-09-08T16:00:00+00:00"
-  },
-  {
-   "title": "US Open LIVE! Sabalenka a break down in deciding set vs Noskova",
-   "url": "https://www.skysports.com/tennis/live-blog/12040/13583196/us-open-live-scores-updates-news-results-and-video-with-aryna-sabalenka-and-frances-tiafoe-in-action-in-new-york",
-   "source": "Sky Sports",
-   "published": "2026-09-08T16:00:00+00:00"
-  },
-  {
-   "title": "Rangers captain Shankland expected to miss three to four months",
-   "url": "https://www.skysports.com/football/news/12040/13583189/lawrence-shankland-rangers-captain-expected-to-be-out-for-three-to-four-months-with-hamstring-tear-confirms-derek-mcinnes",
-   "source": "Sky Sports",
-   "published": "2026-09-08T15:49:00+00:00"
   },
   {
    "title": "Leclerc fit for Madrid after Monza crash",
@@ -100,28 +166,10 @@
    "published": "2026-09-08T15:18:00+00:00"
   },
   {
-   "title": "Man Utd's £1bn rebuild faces toughest test",
-   "url": "https://www.skysports.com/football/news/12040/13583089/man-utd-have-highest-transfer-net-spend-since-2022-but-champions-league-return-will-test-depth-between-the-lines",
-   "source": "Sky Sports",
-   "published": "2026-09-08T15:00:00+00:00"
-  },
-  {
    "title": "McLaren to \"review\" racing between Lando Norris and Oscar Piastri following Italian GP",
    "url": "https://www.motorsport.com/f1/news/mclaren-to-review-racing-between-lando-norris-and-oscar-piastri-following-italian-gp/10853620/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "source": "Motorsport",
    "published": "2026-09-08T14:58:16+00:00"
-  },
-  {
-   "title": "Ferrari vow to come back stronger after Monza 'failure'",
-   "url": "https://www.skysports.com/f1/news/12040/13583075/spanish-gp-ferrari-boss-frederic-vasseur-says-team-will-come-back-stronger-in-madrid-after-italian-gp-failure-at-monza",
-   "source": "Sky Sports",
-   "published": "2026-09-08T14:00:00+00:00"
-  },
-  {
-   "title": "Mac Allister 'very sad' over no new Liverpool deal",
-   "url": "https://www.skysports.com/football/news/12040/13583123/alexis-mac-allister-liverpool-midfielder-very-sad-over-no-new-contract-and-admits-he-could-have-left-in-summer",
-   "source": "Sky Sports",
-   "published": "2026-09-08T13:27:00+00:00"
   },
   {
    "title": "Hadjar ruled out of Madrid as Lawson stays at Red Bull",
@@ -154,34 +202,16 @@
    "published": "2026-09-08T10:50:00+00:00"
   },
   {
-   "title": "Newcastle chief: Summer was 'not chaotic' with Howe exit prepared for",
-   "url": "https://www.skysports.com/football/news/12040/13583036/ross-wilson-newcastle-chief-reveals-club-prepared-for-eddie-howe-exit-in-summer-that-never-felt-chaotic",
-   "source": "Sky Sports",
-   "published": "2026-09-08T08:30:00+00:00"
-  },
-  {
    "title": "Ferrari’s ADUO 2 upgrade is no “game changer” for Haas either",
    "url": "https://www.motorsport.com/f1/news/ferraris-aduo-2-upgrade-is-no-game-changer-for-haas-either/10853480/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "source": "Motorsport",
    "published": "2026-09-08T08:18:58+00:00"
   },
   {
-   "title": "Bosa and Kittle return for 49ers in Melbourne opener",
-   "url": "https://www.skysports.com/nfl/live-blog/12040/13572639/nfl-news-trades-injuries-and-rumours-latest-updates-and-highlights-from-2026-pre-season-regular-season-playoffs-and-super-bowl",
-   "source": "Sky Sports",
-   "published": "2026-09-08T08:13:00+00:00"
-  },
-  {
    "title": "Juan Pablo Montoya: Mercedes should have double-stacked George Russell and Kimi Antonelli at Monza",
    "url": "https://www.motorsport.com/f1/news/juan-pablo-montoya-mercedes-should-have-double-stacked-george-russell-and-kimi-antonelli-at-monza/10853452/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "source": "Motorsport",
    "published": "2026-09-08T08:00:05+00:00"
-  },
-  {
-   "title": "How Calafiori has become 'the best left-back in the league by far'",
-   "url": "https://www.skysports.com/football/news/12040/13582771/riccardo-calafiori-how-arsenals-defender-has-emerged-as-one-of-the-premier-leagues-best-left-backs",
-   "source": "Sky Sports",
-   "published": "2026-09-08T08:00:00+00:00"
   },
   {
    "title": "FIA won’t “jump the gun” over cancelling F1’s Middle East races – Ben Sulayem | Formula 1",
@@ -208,40 +238,10 @@
    "published": "2026-09-08T06:15:41+00:00"
   },
   {
-   "title": "Should England rotate bowlers or be ruthless in final Pakistan Test?",
-   "url": "https://www.skysports.com/cricket/news/12040/13582810/england-vs-pakistan-should-hosts-rotate-bowling-attack-by-resting-likes-of-jofra-archer-in-third-test-at-edgbaston",
-   "source": "Sky Sports",
-   "published": "2026-09-08T06:00:00+00:00"
-  },
-  {
-   "title": "Why the F1 title race is not over yet...",
-   "url": "https://www.skysports.com/f1/news/12040/13582715/f1-title-race-why-championship-is-not-over-despite-spectacular-kimi-antonelli-win-at-italian-grand-prix",
-   "source": "Sky Sports",
-   "published": "2026-09-08T06:00:00+00:00"
-  },
-  {
-   "title": "Today on Sky Sports Racing: Roadlesstravelled makes chase debut at Bangor",
-   "url": "https://www.skysports.com/racing/news/12040/13582709/today-on-sky-sports-racing-jumps-action-from-bangor-on-dee-features-live-on-tuesday",
-   "source": "Sky Sports",
-   "published": "2026-09-08T06:00:00+00:00"
-  },
-  {
    "title": "On This Day: Zanardi grabs Laguna Seca win with last-lap pass in Corkscrew | Brief",
    "url": "https://www.racefans.net/2026/09/08/on-this-day-zanardi-grabs-laguna-sena-win-with-last-lap-pass-in-corkscrew/",
    "source": "RaceFans",
    "published": "2026-09-07T23:01:14+00:00"
-  },
-  {
-   "title": "Social Media: Sainz to use his original helmet design for first race in Madrid | Brief",
-   "url": "https://www.racefans.net/2026/09/07/social-media-sainz-to-use-his-original-helmet-design-for-first-race-in-madrid/",
-   "source": "RaceFans",
-   "published": "2026-09-07T19:40:02+00:00"
-  },
-  {
-   "title": "Lawson and Tsunoda called up again as injury keeps Hadjar out for third weekend | Formula 1",
-   "url": "https://www.racefans.net/2026/09/07/lawson-and-tsunoda-continue-for-another-weekend-as-injury-keeps-hadjar-out-for-third-round/",
-   "source": "RaceFans",
-   "published": "2026-09-07T19:17:13+00:00"
   }
  ]
 }
