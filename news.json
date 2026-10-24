@@ -1,127 +1,223 @@
 {
- "generated": "2026-10-24T17:08:35+00:00",
+ "generated": "2026-10-24T22:10:51+00:00",
  "max_age_days": 14,
  "count": 40,
  "items": [
   {
-   "title": "United States GP: Rivals seek to hit back at Ferrari in crucial final practice LIVE!",
+   "title": "Players laugh as Rock LOSES his dart on stage during match",
+   "url": "https://www.skysports.com/watch/video/13603403/lost-darts-use-with-credit",
+   "source": "Sky Sports",
+   "published": "2026-10-24T22:12:00+00:00"
+  },
+  {
+   "title": "Littler seals second-best average ever at European Championship",
+   "url": "https://www.skysports.com/watch/video/13603404/darts-luke-littler-produces-second-best-average-at-european-championship",
+   "source": "Sky Sports",
+   "published": "2026-10-24T22:12:00+00:00"
+  },
+  {
+   "title": "Qualifying Report - Antonelli beats Verstappen to Austin pole",
+   "url": "http://www.grandprix.com/races/united-states-gp-2026-qualifying-report.html",
+   "source": "GrandPrix",
+   "published": "2026-10-24T22:04:45+00:00"
+  },
+  {
+   "title": "2026 United States Grand Prix grid | Formula 1",
+   "url": "https://www.racefans.net/2026/10/24/2026-united-states-grand-prix-grid/",
+   "source": "RaceFans",
+   "published": "2026-10-24T22:04:24+00:00"
+  },
+  {
+   "title": "Papers: Sancho could land in Spain as Getafe offer winger shock deal",
+   "url": "https://www.skysports.com/football/news/12040/13603391/jadon-sancho-offered-shock-deal-by-la-liga-side-getafe-riccardo-calafiori-adds-to-arsenal-injury-woes-paper-talk",
+   "source": "Sky Sports",
+   "published": "2026-10-24T22:04:00+00:00"
+  },
+  {
+   "title": "Littler powers past Aspinall to reach European Championship quarter-finals",
+   "url": "https://www.skysports.com/darts/news/12040/13603151/luke-littler-still-on-course-to-win-european-championship-darts-after-second-round-win-over-nathan-aspinall",
+   "source": "Sky Sports",
+   "published": "2026-10-24T22:00:00+00:00"
+  },
+  {
+   "title": "Smith beats Puello in thriller to retain WBC title and stay unbeaten",
+   "url": "https://www.skysports.com/boxing/news/12040/13603395/dalton-smith-beats-alberto-puello-to-retain-wbc-light-welterweight-title-after-split-decision-victory",
+   "source": "Sky Sports",
+   "published": "2026-10-24T21:53:00+00:00"
+  },
+  {
+   "title": "Video: First trailer for ‘Hunt: We need to talk about James’ revealed | Briefs",
+   "url": "https://www.racefans.net/2026/10/24/video-first-trailer-for-hunt-we-need-to-talk-about-james-revealed/",
+   "source": "RaceFans",
+   "published": "2026-10-24T21:39:46+00:00"
+  },
+  {
+   "title": "Max Verstappen's Austin GP complaints prompt response from COTA chief",
+   "url": "https://www.motorsport.com/f1/news/max-verstappens-austin-gp-complaints-prompt-response-from-cota-chief/10867977/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "source": "Motorsport",
+   "published": "2026-10-24T21:37:12+00:00"
+  },
+  {
+   "title": "Dundee United 3-2 Aberdeen",
+   "url": "https://www.skysports.com/watch/video/13603385/dundee-united-3-2-aberdeen-scottish-premiership-highlights",
+   "source": "Sky Sports",
+   "published": "2026-10-24T21:23:00+00:00"
+  },
+  {
+   "title": "Alonso 'out-coached', 'petulant' Palmer and Penders howler: Chelsea's horror night",
+   "url": "https://www.skysports.com/football/news/12040/13603342/chelsea-cole-palmer-red-card-mike-penders-howler-and-out-coached-by-roberto-de-zerbi-on-horror-night-for-xabi-alonso",
+   "source": "Sky Sports",
+   "published": "2026-10-24T21:14:00+00:00"
+  },
+  {
+   "title": "George Russell's tongue-in-cheek Kimi Antonelli F1 title threat: \"Get you arrested\"",
+   "url": "https://www.motorsport.com/f1/news/george-russells-tongue-in-cheek-kimi-antonelli-f1-title-threat-get-you-arrested/10867967/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "source": "Motorsport",
+   "published": "2026-10-24T20:59:56+00:00"
+  },
+  {
+   "title": "Practice 3 Report - Hamilton completes Ferrari practice sweep",
+   "url": "http://www.grandprix.com/races/united-states-gp-2026-practice-3-report.html",
+   "source": "GrandPrix",
+   "published": "2026-10-24T20:57:00+00:00"
+  },
+  {
+   "title": "Rangers 4-0 St Johnstone",
+   "url": "https://www.skysports.com/watch/video/13603380/rangers-4-0-st-johnstone-scottish-premiership-highlights",
+   "source": "Sky Sports",
+   "published": "2026-10-24T20:55:00+00:00"
+  },
+  {
+   "title": "Arteta collating evidence of other managers stepping out of technical area",
+   "url": "https://www.skysports.com/football/news/12040/13603372/arsenal-boss-mikel-arteta-reveals-he-clips-up-premier-league-managers-stepping-out-of-technical-area",
+   "source": "Sky Sports",
+   "published": "2026-10-24T20:45:00+00:00"
+  },
+  {
+   "title": "Golden State beat Atlanta in Game 4 to level WNBA Finals",
+   "url": "https://www.skysports.com/nba/news/12040/13603375/wnba-finals-golden-state-valkyries-beat-atlanta-dream-67-62-in-game-4-to-level-best-of-seven-series",
+   "source": "Sky Sports",
+   "published": "2026-10-24T20:42:00+00:00"
+  },
+  {
+   "title": "Kimi Antonelli caught on camera hitting fence in Mercedes road car at US GP",
+   "url": "https://www.motorsport.com/f1/news/kimi-antonelli-caught-on-camera-hitting-fence-in-mercedes-road-car-at-us-gp/10867960/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "source": "Motorsport",
+   "published": "2026-10-24T20:38:53+00:00"
+  },
+  {
+   "title": "Falkirk 3-0 Kilmarnock",
+   "url": "https://www.skysports.com/watch/video/13603369/falkirk-3-0-kilmarnock-scottish-premiership-highlights",
+   "source": "Sky Sports",
+   "published": "2026-10-24T20:31:00+00:00"
+  },
+  {
+   "title": "St Mirren 2-1 Dundee",
+   "url": "https://www.skysports.com/watch/video/13603367/st-mirren-2-1-dundee-scottish-premiership-highlights",
+   "source": "Sky Sports",
+   "published": "2026-10-24T20:29:00+00:00"
+  },
+  {
+   "title": "Colton Herta savours \"super special\" Austin homecoming as 2027 uncertainty remains",
+   "url": "https://www.motorsport.com/f1/news/colton-herta-savours-super-special-austin-homecoming-as-2027-uncertainty-remains/10867950/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "source": "Motorsport",
+   "published": "2026-10-24T20:03:30+00:00"
+  },
+  {
+   "title": "Hamilton fastest from Verstappen ahead of US GP Qualifying",
+   "url": "https://www.skysports.com/f1/news/12040/13603143/united-states-gp-lewis-hamilton-fastest-from-max-verstappen-in-final-practice-ahead-of-qualifying-in-austin",
+   "source": "Sky Sports",
+   "published": "2026-10-24T19:41:00+00:00"
+  },
+  {
+   "title": "'NIGHTMARE!' - Penders punches ball into own net!",
+   "url": "https://www.skysports.com/watch/video/13603327/goal-m-penders-og-chelsea-0-1-tottenham-hotspur",
+   "source": "Sky Sports",
+   "published": "2026-10-24T19:13:00+00:00"
+  },
+  {
+   "title": "Should Palmer have seen straight red for barge on Mateus Fernandes?",
+   "url": "https://www.skysports.com/watch/video/13603322/booked-m-fernandes-72-chelsea-0-0-tottenham-hotspur",
+   "source": "Sky Sports",
+   "published": "2026-10-24T19:06:00+00:00"
+  },
+  {
+   "title": "Christian Horner proposes major change to how fans watch F1",
+   "url": "https://www.motorsport.com/f1/news/christian-horner-proposes-major-change-to-how-fans-watch-f1/10867935/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "source": "Motorsport",
+   "published": "2026-10-24T18:45:49+00:00"
+  },
+  {
+   "title": "Franco Colapinto goes viral after surprise Doctor Doom appearance at United States GP",
+   "url": "https://www.motorsport.com/f1/news/franco-colapinto-goes-viral-after-surprise-doctor-doom-appearance-at-united-states-gp/10867930/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "source": "Motorsport",
+   "published": "2026-10-24T18:44:44+00:00"
+  },
+  {
+   "title": "F1 United States GP: Ferrari completes perfect practice record as Hamilton tops FP3",
+   "url": "https://www.autosport.com/f1/news/f1-united-states-gp-hamilton-tops-fp3/10867933/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "source": "Autosport",
+   "published": "2026-10-24T18:42:14+00:00"
+  },
+  {
+   "title": "Knicks employees to get NBA championship rings after phishing email 'mistake'",
+   "url": "https://www.skysports.com/nba/news/12040/13603315/new-york-knicks-employees-to-get-nba-championship-rings-after-admitting-to-phishing-email-mistake",
+   "source": "Sky Sports",
+   "published": "2026-10-24T18:42:00+00:00"
+  },
+  {
+   "title": "Hamilton leads final practice after spate of track limits violations | Formula 1",
+   "url": "https://www.racefans.net/2026/10/24/hamilton-leads-final-practice-after-spate-of-track-limits-violations/",
+   "source": "RaceFans",
+   "published": "2026-10-24T18:41:55+00:00"
+  },
+  {
+   "title": "F1 United States GP: Lewis Hamilton pips Max Verstappen in FP3",
+   "url": "https://www.motorsport.com/f1/news/f1-united-states-gp-lewis-hamilton-tops-fp3/10867914/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "source": "Motorsport",
+   "published": "2026-10-24T18:40:36+00:00"
+  },
+  {
+   "title": "Practice 3 Results",
+   "url": "http://www.grandprix.com/races/united-states-gp-2026-practice-3-results.html",
+   "source": "GrandPrix",
+   "published": "2026-10-24T18:30:00+00:00"
+  },
+  {
+   "title": "Daniel Ricciardo surprises F1 fans with on-stage performance ahead of US GP",
+   "url": "https://www.motorsport.com/f1/news/daniel-ricciardo-surprises-f1-fans-with-on-stage-performance-ahead-of-us-gp/10867920/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "source": "Motorsport",
+   "published": "2026-10-24T18:21:47+00:00"
+  },
+  {
+   "title": "Nico Hulkenberg left red-faced after Gabriel Bortoleto prank at United States GP",
+   "url": "https://www.motorsport.com/f1/news/nico-hulkenberg-left-red-faced-after-gabriel-bortoleto-prank-at-united-states-gp/10867916/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "source": "Motorsport",
+   "published": "2026-10-24T18:13:00+00:00"
+  },
+  {
+   "title": "Murrell on target as Falkirk breeze past Kilmarnock stormy conditions",
+   "url": "https://www.skysports.com/football/falkirk-vs-kilmarnock/report/558388",
+   "source": "Sky Sports",
+   "published": "2026-10-24T18:10:00+00:00"
+  },
+  {
+   "title": "United States GP: Antonelli beats Verstappen to pole LIVE!",
    "url": "https://www.skysports.com/f1/live-blog/12040/13603168/f1-united-states-gp-live-qualifying-and-final-practice-updates-results-stream-highlights-from-formula-1-race-weekend-in-austin",
    "source": "Sky Sports",
    "published": "2026-10-24T18:05:00+00:00"
   },
   {
-   "title": "'It was comfortable' - Merse on Gunners straightforward win over Everton",
-   "url": "https://www.skysports.com/watch/video/13603258/arsenal-vs-everton-paul-merson-gives-his-view-on-arsenals-comfortable-win-over-evertonon",
+   "title": "Leicester down holders Northampton as Bristol beat Exeter",
+   "url": "https://www.skysports.com/rugby-union/news/12040/13603289/gallagher-prem-leicester-beat-holders-northampton-as-bristol-get-better-of-exeter",
    "source": "Sky Sports",
-   "published": "2026-10-24T17:30:00+00:00"
+   "published": "2026-10-24T17:51:00+00:00"
   },
   {
-   "title": "Giant Sequoia stakes Classic claims in Futurity",
-   "url": "https://www.skysports.com/racing/news/12040/13603250/giant-sequoia-powers-to-impressive-futurity-trophy-success",
-   "source": "Sky Sports",
-   "published": "2026-10-24T17:20:00+00:00"
-  },
-  {
-   "title": "Gudjohnsen double steers Blackburn past Wrexham",
-   "url": "https://www.skysports.com/football/blackburn-rovers-vs-wrexham/report/560630",
-   "source": "Sky Sports",
-   "published": "2026-10-24T17:15:00+00:00"
-  },
-  {
-   "title": "West Ham 2-3 Southampton",
-   "url": "https://www.skysports.com/watch/video/13603175/west-ham-united-2-3-southampton-championship-highlights",
-   "source": "Sky Sports",
-   "published": "2026-10-24T17:15:00+00:00"
-  },
-  {
-   "title": "Cardiff battle past Birmingham",
-   "url": "https://www.skysports.com/football/cardiff-city-vs-birmingham-city/report/560632",
-   "source": "Sky Sports",
-   "published": "2026-10-24T17:15:00+00:00"
-  },
-  {
-   "title": "Southampton win thriller at West Ham",
-   "url": "https://www.skysports.com/football/west-ham-united-vs-southampton/report/560640",
-   "source": "Sky Sports",
-   "published": "2026-10-24T17:15:00+00:00"
-  },
-  {
-   "title": "Bobb stunner earns Fulham back-to-back PL wins",
-   "url": "https://www.skysports.com/watch/video/13603205/coventry-city-0-1-fulham-premier-league-highlights",
-   "source": "Sky Sports",
-   "published": "2026-10-24T17:15:00+00:00"
-  },
-  {
-   "title": "Konsa and Gabriel on target as Arsenal top Everton",
-   "url": "https://www.skysports.com/watch/video/13603221/arsenal-2-0-everton-premier-league-highlights",
-   "source": "Sky Sports",
-   "published": "2026-10-24T17:15:00+00:00"
-  },
-  {
-   "title": "Villa end Man City's perfect start with Jackson double",
-   "url": "https://www.skysports.com/watch/video/13603081/aston-villa-2-1-manchester-city-premier-league-highlights",
-   "source": "Sky Sports",
-   "published": "2026-10-24T17:15:00+00:00"
-  },
-  {
-   "title": "Lincoln thump four past sorry Burnley",
-   "url": "https://www.skysports.com/football/lincoln-city-vs-burnley/report/560634",
+   "title": "Hits and misses: De Zerbi's 'complete team' and 'genius' Emery impress",
+   "url": "https://www.skysports.com/football/news/12040/13602922/roberto-de-zerbis-spurs-a-complete-team-unai-emery-works-magic-on-nicolas-jackson-premier-league-hits-and-misses",
    "source": "Sky Sports",
    "published": "2026-10-24T17:00:00+00:00"
-  },
-  {
-   "title": "Preston claim first point under Alexander",
-   "url": "https://www.skysports.com/football/preston-north-end-vs-west-bromwich-albion/report/560636",
-   "source": "Sky Sports",
-   "published": "2026-10-24T17:00:00+00:00"
-  },
-  {
-   "title": "Stoke and Bristol City battle to draw",
-   "url": "https://www.skysports.com/football/stoke-city-vs-bristol-city/report/560639",
-   "source": "Sky Sports",
-   "published": "2026-10-24T17:00:00+00:00"
-  },
-  {
-   "title": "Kone hits hat-trick as QPR hammer Swansea",
-   "url": "https://www.skysports.com/football/queens-park-rangers-vs-swansea-city/report/560637",
-   "source": "Sky Sports",
-   "published": "2026-10-24T17:00:00+00:00"
-  },
-  {
-   "title": "Armstrong fires Wolves past Watford",
-   "url": "https://www.skysports.com/football/wolverhampton-wanderers-vs-watford/report/560641",
-   "source": "Sky Sports",
-   "published": "2026-10-24T17:00:00+00:00"
-  },
-  {
-   "title": "Iqbal gets first goal as Dundee United edge Aberdeen in thriller",
-   "url": "https://www.skysports.com/football/dundee-united-vs-aberdeen/report/558387",
-   "source": "Sky Sports",
-   "published": "2026-10-24T16:50:00+00:00"
-  },
-  {
-   "title": "Kelsy scores two as Rangers put four past St Johnstone",
-   "url": "https://www.skysports.com/football/rangers-vs-st-johnstone/report/558391",
-   "source": "Sky Sports",
-   "published": "2026-10-24T16:50:00+00:00"
-  },
-  {
-   "title": "Spurs on top and threatening vs Chelsea LIVE! & highlights",
-   "url": "https://www.skysports.com/football/chelsea-vs-tottenham-hotspur/live/559516",
-   "source": "Sky Sports",
-   "published": "2026-10-24T16:00:00+00:00"
-  },
-  {
-   "title": "Portsmouth hit back to beat Millwall",
-   "url": "https://www.skysports.com/football/portsmouth-vs-millwall/report/560635",
-   "source": "Sky Sports",
-   "published": "2026-10-24T14:30:00+00:00"
-  },
-  {
-   "title": "Giant Sequoia storms to success in the Futurity Trophy!",
-   "url": "https://www.skysports.com/watch/video/13603058/derby-contender-giant-sequoia-storms-to-success-in-the-futurity-trophy",
-   "source": "Sky Sports",
-   "published": "2026-10-24T14:07:00+00:00"
   },
   {
    "title": "Why Cadillac F1 boss provoked fresh intrigue by dodging driver question",
@@ -146,102 +242,6 @@
    "url": "http://www.grandprix.com/news/cadillac-engine-factory-to-open-december-18.html",
    "source": "GrandPrix",
    "published": "2026-10-24T13:28:00+00:00"
-  },
-  {
-   "title": "Crawford replaces Stroll in Mexico City practice",
-   "url": "http://www.grandprix.com/news/crawford-replaces-stroll-in-mexico-city-practice.html",
-   "source": "GrandPrix",
-   "published": "2026-10-24T13:27:00+00:00"
-  },
-  {
-   "title": "The intrigue caused by Cadillac's F1 boss dodging driver market question",
-   "url": "https://www.autosport.com/f1/news/the-intrigued-caused-by-cadillacs-f1-boss-dodging-driver-market-question/10867820/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-   "source": "Autosport",
-   "published": "2026-10-24T13:00:02+00:00"
-  },
-  {
-   "title": "Formula 1’s ruined season diminishes Antonelli’s inevitable championship triumph | Comment",
-   "url": "https://www.racefans.net/2026/10/24/formula-1s-ruined-season-diminishes-antonellis-inevitable-championship-triumph/",
-   "source": "RaceFans",
-   "published": "2026-10-24T12:07:17+00:00"
-  },
-  {
-   "title": "\"Just undriveable\" – Isack Hadjar looking for answers after \"massive\" struggles in Austin practice",
-   "url": "https://www.motorsport.com/f1/news/just-undriveable-isack-hadjar-looking-for-answers-after-massive-struggles-in-austin-practice/10867672/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "source": "Motorsport",
-   "published": "2026-10-24T10:30:02+00:00"
-  },
-  {
-   "title": "The unexpected issue Honda faced with upgraded F1 power unit",
-   "url": "https://www.autosport.com/f1/news/the-unexpected-issue-honda-faced-with-upgraded-f1-power-unit/10867646/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-   "source": "Autosport",
-   "published": "2026-10-24T09:30:02+00:00"
-  },
-  {
-   "title": "The unexpected problem Honda encountered despite its second F1 power unit upgrade",
-   "url": "https://www.motorsport.com/f1/news/the-unexpected-problem-honda-encountered-despite-its-second-f1-power-unit-upgrade/10867644/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "source": "Motorsport",
-   "published": "2026-10-24T09:30:02+00:00"
-  },
-  {
-   "title": "Verstappen enjoys promising start to US GP - but Red Bull pinpoints areas of improvement",
-   "url": "https://www.autosport.com/f1/news/red-bull-pinpoints-areas-of-improvement-at-us-gp/10867770/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-   "source": "Autosport",
-   "published": "2026-10-24T08:12:42+00:00"
-  },
-  {
-   "title": "Red Bull identifies two \"key focus\" areas after Max Verstappen's promising start in Austin",
-   "url": "https://www.motorsport.com/f1/news/red-bull-identifies-two-key-focus-areas-after-max-verstappens-promising-start-in-austin/10867670/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "source": "Motorsport",
-   "published": "2026-10-24T08:10:05+00:00"
-  },
-  {
-   "title": "Kimi Antonelli hails \"step forward\" at United States GP as Mercedes chips away at upgrades",
-   "url": "https://www.motorsport.com/f1/news/kimi-antonelli-hails-austin-fp2-step-forward-as-mercedes-chips-away-at-upgrades/10867656/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "source": "Motorsport",
-   "published": "2026-10-24T06:00:02+00:00"
-  },
-  {
-   "title": "Honda applies turbo-lag countermeasures after Singapore setback",
-   "url": "http://www.grandprix.com/news/honda-applies-turbo-lag-countermeasures-after-singapore-setback.html",
-   "source": "GrandPrix",
-   "published": "2026-10-24T02:57:00+00:00"
-  },
-  {
-   "title": "Slater gets Audi FP1 debut in Mexico City and Sao Paulo",
-   "url": "http://www.grandprix.com/news/slater-gets-audi-fp1-debut-in-mexico-city-and-sao-paulo.html",
-   "source": "GrandPrix",
-   "published": "2026-10-24T02:56:00+00:00"
-  },
-  {
-   "title": "Newey answers Horner criticism over Renault-era frustration",
-   "url": "http://www.grandprix.com/news/newey-answers-horner-criticism-over-renault-era-frustration.html",
-   "source": "GrandPrix",
-   "published": "2026-10-24T02:54:00+00:00"
-  },
-  {
-   "title": "Friday Photos",
-   "url": "http://www.grandprix.com/races/united-states-gp-2026-friday-photos.html",
-   "source": "GrandPrix",
-   "published": "2026-10-24T02:45:47+00:00"
-  },
-  {
-   "title": "Leclerc fastest from Antonelli in US GP practice",
-   "url": "https://www.bbc.co.uk/sport/formula1/articles/cm5ynle2n082o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-10-23T23:40:33+00:00"
-  },
-  {
-   "title": "McLaren's aims for its final F1 2026 upgrades amid decline in form",
-   "url": "https://www.autosport.com/f1/news/mclarens-aims-for-final-f1-2026-upgrades/10867609/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-   "source": "Autosport",
-   "published": "2026-10-23T23:04:52+00:00"
-  },
-  {
-   "title": "On This Day: Verstappen beats Hamilton in Austin despite “blurred images” in vision | Brief",
-   "url": "https://www.racefans.net/2026/10/24/on-this-day-2021-united-states-grand-prix/",
-   "source": "RaceFans",
-   "published": "2026-10-23T23:01:00+00:00"
   }
  ]
 }
